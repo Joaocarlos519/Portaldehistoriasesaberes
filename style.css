@@ -6,12 +6,12 @@ box-sizing: border-box;
 
 body {
 font-family: 'Georgia', serif;
-background-color: #fcf9f2;
-color: #333;
+background-color: #7cfc00;
+color: #040404;
 }
 
 header {
-background-color: #8fbc8f;
+background-color: #964b00;
 color: white;
 text-align: center;
 padding: 30px 15px;
