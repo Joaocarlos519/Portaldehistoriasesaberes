@@ -6,13 +6,13 @@ box-sizing: border-box;
 
 body {
 font-family: 'Georgia', serif;
-background-color: #7cfc00;
-color: #040404;
+background-color: #5fc005da;
+color: #ffffff;
 }
 
 header {
 background-color: #964b00;
-color: white;
+color: rgb(255, 255, 255);
 text-align: center;
 padding: 30px 15px;
 }
@@ -33,7 +33,7 @@ margin: 0 15px;
 }
 
 header nav ul li a {
-color: white;
+color: rgb(255, 255, 255);
 text-decoration: none;
 font-weight: bold;
 }
@@ -45,15 +45,15 @@ padding: 30px 20px;
 }
 
 .bloco {
-background-color: #ffffff;
+background-color: #964b00;
 margin-bottom: 30px;
 padding: 20px;
 border-left: 6px solid #8fbc8f;
-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+box-shadow: 0 2px 10px rgba(255, 255, 255, 0.1);
 }
 
 .bloco h2 {
-color: #4a7042;
+color: #ffffff;
 margin-bottom: 10px;
 }
 
